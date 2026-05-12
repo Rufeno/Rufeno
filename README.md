@@ -3,7 +3,7 @@
 <p align="center">
 💻 Estudante de Sistemas de Informação <br>
 🧠 Apaixonado por Inteligência Artificial e Tecnologia <br>
-⚙️ Desenvolvedor de projetos web, automação e modpacks <br>
+⚙️ Desenvolvedor de projetos web e automação <br>
 🚀 Sempre aprendendo algo novo
 </p>
 
@@ -39,8 +39,8 @@ Projeto desenvolvido para conectar pessoas a produtores locais e incentivar o co
 ### 🧠 Sistema de Detecção de Fraudes
 TCC focado em Machine Learning aplicado a transações bancárias.
 
-### 🧟 ZumbiCraft dos Brabos
-Modpack de Minecraft com foco em sobrevivência, imersão e automação.
+### ⚙️ Projetos de Automação e Desenvolvimento
+Experimentos e aplicações voltadas para tecnologia, produtividade e aprendizado contínuo.
 
 ---
 
