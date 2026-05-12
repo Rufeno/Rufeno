@@ -1,22 +1,63 @@
-<h1 align="center">Hola 👋, me chamo Guilherme Lopes</h1>
-<h3 align="center">Sou um estudante de Ti Em São Paulo</h3>
+<h1 align="center">👋 Olá, eu sou Guilherme</h1>
 
-- 🌱 Estou cursando Sistema de informação a carreira Especialista em IA na Alura **N8N ChatBot, RAG**
-
-- 👨‍💻 Todos os meus projetos estão no meu Github [https://github.com/Rufeno](https://github.com/Rufeno)
-
-- 📫 Entre em contato **guilopesdelara@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/guilherme-lopes-lara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/guilherme-lopes-lara" height="30" width="40" /></a>
+<p align="center">
+💻 Estudante de Sistemas de Informação <br>
+🧠 Apaixonado por Inteligência Artificial e Tecnologia <br>
+⚙️ Desenvolvedor de projetos web, automação e modpacks <br>
+🚀 Sempre aprendendo algo novo
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rufeno&show_icons=true&locale=en&layout=compact" alt="rufeno" /></p>
+## 🚀 Tecnologias
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rufeno&show_icons=true&locale=en" alt="rufeno" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rufeno&" alt="rufeno" /></p>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,java,git,github,vscode,mysql" />
+
+</div>
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rufeno&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rufeno&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Projetos em destaque
+
+### 🌱 Raízes Locais
+Projeto desenvolvido para conectar pessoas a produtores locais e incentivar o consumo sustentável.
+
+### 🧠 Sistema de Detecção de Fraudes
+TCC focado em Machine Learning aplicado a transações bancárias.
+
+### 🧟 ZumbiCraft dos Brabos
+Modpack de Minecraft com foco em sobrevivência, imersão e automação.
+
+---
+
+## 🌎 Redes
+
+<div align="center">
+
+<a href="https://github.com/Rufeno">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+✨ “Transformando ideias em projetos.” ✨
+
+</div>
