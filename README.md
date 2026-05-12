@@ -23,9 +23,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rufeno&theme=tokyonight&show_icons=true&hide_border=true&cache_seconds=1800"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rufeno&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=Rufeno&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -48,11 +46,11 @@ Experimentos e aplicações voltadas para tecnologia, produtividade e aprendizad
 
 <div align="center">
 
-<a href="https://github.com/Rufeno">
+<a href="https://github.com/Rufeno" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="www.linkedin.com/in/guilherme-lopes-lara">
+<a href="https://linkedin.com/in/guilherme-lopes-lara" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
